@@ -1,0 +1,42 @@
+_repo: Le-temple-de-Gnide_24260
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Nodier
+    - http://fr.wikipedia.org/wiki/Charles_Nodier
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montesquieu, Charles de Secondat, baron de
+    aliases:
+    - Montesquieu, Charles Louis de Secondat, baron de La Brède et de
+    - Montesquieu, Charles Louis de Secondat, baron de La Brede et de
+    birthdate: 1689
+    deathdate: 1755
+    gutenberg_agent_id: '26352'
+    url: http://www.gutenberg.org/2009/agents/26352
+    wikipedia: http://en.wikipedia.org/wiki/Charles_de_Secondat%2C_baron_de_Montesquieu
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24260'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hedonism'
+- !lcc 'PQ'
+title: Le temple de Gnide
+url: http://www.gutenberg.org/ebooks/24260
